@@ -1,2 +1,4 @@
 config:
   info: 123456789
+server: 
+  port: 8080
